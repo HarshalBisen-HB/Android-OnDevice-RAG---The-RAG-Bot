@@ -2,9 +2,21 @@
 
 A state-of-the-art, fully local Retrieval-Augmented Generation (RAG) application for Android. This project demonstrates how to run advanced Natural Language Processing tasks—including sentence embeddings, vector database similarity search, document chunking, and LLM text generation—entirely on-device without relying on external cloud APIs (with optional Gemini remote streaming fallback).
 
-## 📱 Demo
+## 📱 Screenshots
 
-<video src="vid.mp4" width="100%" controls></video>
+<p align="center">
+  <img src="ss/1.jpeg" width="220" alt="Screen 1" />
+  <img src="ss/2.jpeg" width="220" alt="Screen 2" />
+  <img src="ss/3.jpeg" width="220" alt="Screen 3" />
+  <img src="ss/4.jpeg" width="220" alt="Screen 4" />
+  <img src="ss/5.jpeg" width="220" alt="Screen 5" />
+  <img src="ss/6.jpeg" width="220" alt="Screen 6" />
+  <img src="ss/7.jpeg" width="220" alt="Screen 7" />
+  <img src="ss/8.jpeg" width="220" alt="Screen 8" />
+  <img src="ss/9.jpeg" width="220" alt="Screen 9" />
+  <img src="ss/10.jpeg" width="220" alt="Screen 10" />
+  <img src="ss/11.jpeg" width="220" alt="Screen 11" />
+</p>
 
 ## 🚀 Key Features
 
