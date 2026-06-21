@@ -1,0 +1,38 @@
+# Gradle files
+.gradle/
+build/
+/*/build/
+capture/
+
+# Kotlin
+.kotlin/
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Local configuration
+local.properties
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+._*
+.DS_Store*
+
+# Large Model files (LiteRT / ONNX / MediaPipe)
+*.task
+*.tflite
+*.onnx
+
+# ObjectBox database files
+objectbox-data/
+*.mdb
+*.bak
+default.json.bak
