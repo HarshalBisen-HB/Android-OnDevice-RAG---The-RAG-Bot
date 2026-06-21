@@ -2,6 +2,10 @@
 
 A state-of-the-art, fully local Retrieval-Augmented Generation (RAG) application for Android. This project demonstrates how to run advanced Natural Language Processing tasks—including sentence embeddings, vector database similarity search, document chunking, and LLM text generation—entirely on-device without relying on external cloud APIs (with optional Gemini remote streaming fallback).
 
+## 📱 Demo
+
+<video src="vid.mp4" width="100%" controls></video>
+
 ## 🚀 Key Features
 
 *   ⚡ **Real-Time Streaming Responses**: Token-by-token generation for both remote (Gemini API) and local (LiteRT/MediaPipe) LLM engines utilizing Kotlin Coroutine Flows.
